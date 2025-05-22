@@ -6,8 +6,8 @@ root.title("Memory Game")
 frame = Frame(root)  
 frame.pack()  
 
-ROWS = 5
-COLS = 5 #поле задаю параметр
+ROWS = 4
+COLS = 4 #поле задаю параметр
 
 
 buttons = []
